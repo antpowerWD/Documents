@@ -94,7 +94,8 @@ Gasan said: Whoever uttered those words I consider an enlightened man.
 The student continued reading: Ask and it shall be given you, seek and ye shall find, 
 knock and it shall be opened unto you. For everyone that asketh receiveth, 
 and he that seeketh findeth, and to him that knocketh, it shall be opened.
-Gasan remarked: That is excellent. Whoever said that is not far from Buddhahood.";
+Gasan remarked: That is excellent. Whoever said that is not far from Buddhahood. |
+What is the sound of one hand clapping?";
 
 
 	// Here we split it into lines
